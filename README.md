@@ -1,8 +1,10 @@
-# Hello, I am Nalini
+# new-practice-2
 
-**College or field:** YOUR COLLEGE OR FIELD
+ Hello, I am YOUR NAME
 
-**City:** YOUR CITY
+*College or field:* YOUR COLLEGE OR FIELD
+
+*City:* YOUR CITY
 
 ## About me
 
@@ -15,4 +17,4 @@ Write 2 or 3 short sentences about yourself.
 
 ## My favourite food
 
-Write one dish here.
+Write one dish her
